@@ -89,15 +89,6 @@
 
 ---
 
-## 💼 Work Experience
-
-**Nextech — Ophthalmology EHR** · *Full-Stack Developer · Aug 2025 – Present*
-`TypeScript` `React` `Node.js` `AWS Lambda` `MongoDB` `GitHub Actions`
-> API latency ↓ **40%** · Zero-downtime releases · Clinical charting workflows
-
-**The Hut Group — Look Fantastic** · *Full-Stack Developer · Mar 2022 – Oct 2023*
-`React` `Node.js` `Express` `AWS` `MongoDB` `CI/CD`
-> Page load ↓ **35%** · **100+** intl. sites · **500+** concurrent users · Release cycle ↑ **20%**
 
 ---
 
