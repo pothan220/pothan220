@@ -7,7 +7,6 @@
 ---
 
 📍 Leicester, UK &nbsp;|&nbsp; ✉ [pothan220@gmail.com](mailto:pothan220@gmail.com) &nbsp;|&nbsp; 🌐 [pothan220.vercel.app](https://pothan220.vercel.app) &nbsp;|&nbsp; 
-
 ---
 
 ## 🧑‍💻 About Me
@@ -113,4 +112,4 @@
 
 ---
 
-*Open to  full-stack, backend, or AI platform engineering roles.*
+*Open to senior full-stack, backend, or platform engineering roles.*
