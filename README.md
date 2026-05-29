@@ -5,7 +5,9 @@
 > Building EHR platforms & global e-commerce at scale.
 
 ---
-|&nbsp; ✉ [pothan220@gmail.com](mailto:pothan220@gmail.com) &nbsp;|&nbsp; 🌐 [pothan220.vercel.app](https://pothan220.vercel.app) &nbsp;|&nbsp; 
+
+📍 UK &nbsp;|&nbsp; ✉ [pothan220@gmail.com](mailto:pothan220@gmail.com) &nbsp;|&nbsp; 🌐 [pothan220.vercel.app](https://pothan220.vercel.app) &nbsp;|&nbsp; 🎓 MSc CS · University of Leicester 2025
+
 ---
 
 ## 🧑‍💻 About Me
@@ -13,7 +15,20 @@
 - 🚀 Full-Stack Engineer · 3 years shipping production code across **healthcare EHR** and **global e-commerce** platforms
 - 🏥 At **Nextech** — building Ophthalmology EHR clinical workflows. TypeScript, React, Node.js, AWS. Zero-downtime deployments
 - 🛍️ Previously at **The Hut Group** — Europe's #1 beauty retailer. 100+ international sites, millions of concurrent users
+- 🎓 MSc Advanced Computer Science — **University of Leicester** (2024–2025). Exploring ML in structured clinical text
+- ⚡ Reduced API response times by **40%** and page load by **35%** in production
 - 🤝 Open to senior full-stack, backend, or platform engineering roles
+
+---
+
+## 📊 Impact
+
+| Metric | Result |
+|--------|--------|
+| API response time improvement | **40%** |
+| Page load time reduction | **35%** |
+| International storefronts served | **100+** |
+| Concurrent users scaled to | **500+** |
 
 ---
 
@@ -75,4 +90,22 @@
 
 ---
 
-*Open to senior full-stack, backend, or platform engineering roles.*
+## 🚀 Projects
+
+- 🏥 **Nextech EHR Platform** `Private` — Ophthalmology clinical charting, scheduling & billing · TypeScript · React · Node.js · AWS
+- 🛍️ **Look Fantastic — THG** `Enterprise` — Europe's #1 beauty e-commerce. 100+ intl. sites, millions of users
+- 🌐 **Portfolio**: [pothan220.vercel.app](https://pothan220.vercel.app) — Next.js · TypeScript · TailwindCSS · Vercel
+
+---
+
+## ⚡ Principles
+
+```
+// Ship readable code.         Measure before optimising.
+// APIs are contracts.         Performance is a feature.
+// Tests are documentation.    Infrastructure should be boring.
+```
+
+---
+
+*Open to  full-stack, backend, or platform engineering roles.*
