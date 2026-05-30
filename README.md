@@ -1,6 +1,6 @@
 # Hi 👋, I am Pothan Prathap Puppala
 
-**Full-Stack Engineer · TypeScript · React · Node.js · AWS**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&width=600&lines=Full-Stack+Engineer+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Node.js;Building+EHR+platforms+%26+global+e-commerce+at+scale;MSc+CS+%C2%B7+Leicester+%C2%B7+Open+to+senior+roles)](https://git.io/typing-svg)
 
 > Building EHR platforms & global e-commerce at scale.
 
