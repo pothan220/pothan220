@@ -5,7 +5,7 @@
 > Building EHR platforms & global e-commerce at scale.
 
 ---
- &nbsp;|&nbsp; ✉ [pothan220@gmail.com](mailto:pothan220@gmail.com) &nbsp;|&nbsp; 🌐 [pothan220.vercel.app](https://pothan220.vercel.app) &nbsp;|&nbsp; 🎓 MSc CS · University of Leicester 2025
+ &nbsp;|&nbsp; ✉ [pothan220@gmail.com](mailto:pothan220@gmail.com) &nbsp;|&nbsp; 🌐 [pothan220.vercel.app](https://pothan220.vercel.app) &nbsp;|&nbsp; 🎓 MSc CS · 
 
 ---
 
