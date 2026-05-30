@@ -21,17 +21,6 @@
 
 ---
 
-## 📊 Impact
-
-| Metric | Result |
-|--------|--------|
-| API response time improvement | **40%** |
-| Page load time reduction | **35%** |
-| International storefronts served | **100+** |
-| Concurrent users scaled to | **500+** |
-
----
-
 ## 💻 Tech Stack
 
 **Languages**
