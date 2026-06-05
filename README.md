@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&width=600&lines=Full-Stack+Engineer+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Node.js;Building+EHR+platforms+%26+global+e-commerce+at+scale;MSc+CS+%C2%B7+Leicester+%C2%B7+Open+to+senior+roles)](https://git.io/typing-svg)
 
-> Building EHR platforms & global e-commerce at scale.
 
 ---
  &nbsp;|&nbsp; ✉ [pothan220@gmail.com](mailto:pothan220@gmail.com) &nbsp;|&nbsp; 🌐 [pothan220.vercel.app](https://pothan220.vercel.app) &nbsp;|&nbsp; 🎓 MSc CS · 
@@ -78,24 +77,6 @@
 ![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-e2231a?style=flat)
 ![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-58a6ff?style=flat)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-3fb950?style=flat)
-
----
-
-## 🚀 Projects
-
-- 🏥 **Nextech EHR Platform** `Private` — Ophthalmology clinical charting, scheduling & billing · TypeScript · React · Node.js · AWS
-- 🛍️ **Look Fantastic — THG** `Enterprise` — Europe's #1 beauty e-commerce. 100+ intl. sites, millions of users
-- 🌐 **Portfolio**: [pothan220.vercel.app](https://pothan220.vercel.app) — Next.js · TypeScript · TailwindCSS · Vercel
-
----
-
-## ⚡ Principles
-
-```
-// Ship readable code.         Measure before optimising.
-// APIs are contracts.         Performance is a feature.
-// Tests are documentation.    Infrastructure should be boring.
-```
 
 ---
 
