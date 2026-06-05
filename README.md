@@ -16,11 +16,9 @@
 
 🛍️ Previously worked at The Hut Group (THG), contributing to large-scale e-commerce platforms powering 100+ international storefronts serving millions of users worldwide.
 
-🎓 Pursuing an MSc in Advanced Computer Science at the University of Leicester (2024–2025), with research interests in machine learning and structured clinical text.
-
 ⚡ Passionate about performance engineering and scalable architecture — improved API response times by 40% and reduced page load times by 35% in production systems.
 
-🤝 Open to senior full-stack, backend, and platform engineering opportunities.
+🤝 Open to full-stack, backend, and platform engineering opportunities.
 
 
 ---
