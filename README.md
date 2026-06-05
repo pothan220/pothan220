@@ -10,13 +10,18 @@
 ---
 
 ## 🧑‍💻 About Me
+🚀 Full-Stack Engineer with 3+ years of experience building and scaling production applications across healthcare and global e-commerce.
 
-- 🚀 Full-Stack Engineer · 3 years shipping production code across **healthcare EHR** and **global e-commerce** platforms
-- 🏥 At **Nextech** — building Ophthalmology EHR clinical workflows. TypeScript, React, Node.js, AWS. Zero-downtime deployments
-- 🛍️ Previously at **The Hut Group** — Europe's #1 beauty retailer. 100+ international sites, millions of concurrent users
-- 🎓 MSc Advanced Computer Science — **University of Leicester** (2024–2025). Exploring ML in structured clinical text
-- ⚡ Reduced API response times by **40%** and page load by **35%** in production
-- 🤝 Open to senior full-stack, backend, or platform engineering roles
+🏥 Currently at Nextech, developing Ophthalmology EHR workflows and clinical systems using TypeScript, React, Node.js, and AWS, with a strong focus on reliability and zero-downtime deployments.
+
+🛍️ Previously worked at The Hut Group (THG), contributing to large-scale e-commerce platforms powering 100+ international storefronts serving millions of users worldwide.
+
+🎓 Pursuing an MSc in Advanced Computer Science at the University of Leicester (2024–2025), with research interests in machine learning and structured clinical text.
+
+⚡ Passionate about performance engineering and scalable architecture — improved API response times by 40% and reduced page load times by 35% in production systems.
+
+🤝 Open to senior full-stack, backend, and platform engineering opportunities.
+
 
 ---
 
