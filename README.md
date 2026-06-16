@@ -9,7 +9,7 @@
 ---
 
 ## 🧑‍💻 About Me
-🚀 Full-Stack Engineer with 3+ years of experience building and scaling production applications across healthcare and global e-commerce.
+🚀 Full-Stack Engineer with 2+ years of experience building and scaling production applications across healthcare and global e-commerce.
 
 🏥 Currently at Nextech, developing Ophthalmology EHR workflows and clinical systems using TypeScript, React, Node.js, and AWS, with a strong focus on reliability and zero-downtime deployments.
 
